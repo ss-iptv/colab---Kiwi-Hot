@@ -10,6 +10,6 @@ O kIWIFY é um projeto de web scraping que permite baixar conteúdos dos sites K
 - `docs/`: Documentação do projeto.
 
 
-      "source": https://colab.research.google.com/github/ss-iptv/colab---Kiwi-Hot/blob/main/Kiwifei_Hotm4rtei_Colab.ipynb\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab
+      "source": [https://colab.research.google.com/github/ss-iptv/colab---Kiwi-Hot/blob/main/Kiwifei_Hotm4rtei_Colab.ipynb\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab](https://colab.research.google.com/github/ss-iptv/colab---Kiwi-Hot/blob/main/Kiwifei_Hotm4rtei_Colab.ipynb)
       
     !Abrir no Colab
