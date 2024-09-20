@@ -1,7 +1,7 @@
-# SCRAPPER PARA COLAB
+# SCRAPPER PARA COLAB - kIWIFei e HOTM4RTEI
 
 ## Descrição
-O kIWIFY é um projeto de web scraping que permite baixar conteúdos dos sites Kiwify e Hotmart. Este repositório contém o código necessário para realizar o scraping e processar os dados obtidos.
+eSTE  é um projeto de web scraping que permite baixar conteúdos dos sites Kiwify e Hotmart. Este repositório contém o código necessário para realizar o scraping e processar os dados obtidos usando o Colab e o Gdrive.
 
 ## Estrutura do Projeto
 - `main.py`: Script principal para realizar o web scraping.
